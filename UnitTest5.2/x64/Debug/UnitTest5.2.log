@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest5.2.cpp
+     Creating library C:\Users\Admin\source\repos\52222222222\x64\Debug\UnitTest5.2.lib and object C:\Users\Admin\source\repos\52222222222\x64\Debug\UnitTest5.2.exp
+UnitTest5.2.obj : error LNK2019: unresolved external symbol "double __cdecl S(double,double,int &,double)" (?S@@YANNNAEAHN@Z) referenced in function "public: void __cdecl UnitTest52::UnitTest52::TestSFunction(void)" (?TestSFunction@UnitTest52@1@QEAAXXZ)
+UnitTest5.2.obj : error LNK2019: unresolved external symbol "double __cdecl A(double,int,double)" (?A@@YANNHN@Z) referenced in function "public: void __cdecl UnitTest52::UnitTest52::TestAFunction(void)" (?TestAFunction@UnitTest52@1@QEAAXXZ)
+C:\Users\Admin\source\repos\52222222222\x64\Debug\UnitTest5.2.dll : fatal error LNK1120: 2 unresolved externals
